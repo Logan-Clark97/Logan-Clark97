@@ -1,9 +1,7 @@
-- 👋 Hi, I’m Logan Clark
-- 👀 I’m interested in ... learning and running
-- 🌱 I’m currently learning ... C++ and working with my Uno3
-- 💞️ I’m looking to collaborate on ... anything
+- Logan Clark
+- Computer Science Student by day, Running Enthusiast at night
+- Actively learning and working with my Uno3
 - 📫 How to reach me ... extend your arms
-- 😄 Pronouns: ... he/ him
 - ⚡ Fun fact: ... I'm new to this :)
 
 <!---
