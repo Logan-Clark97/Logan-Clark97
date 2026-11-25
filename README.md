@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Logan-Clark97
+- 👋 Hi, I’m Logan Clark
 - 👀 I’m interested in ... learning and running
 - 🌱 I’m currently learning ... C++ and working with my Uno3
 - 💞️ I’m looking to collaborate on ... anything
